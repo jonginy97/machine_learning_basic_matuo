@@ -1,4 +1,0 @@
-Sigmoid
-
-
-Softmax
